@@ -28,8 +28,8 @@ KPI 시각화: 총 매출, 전환율, 평균 주문 가치 표시.<br>
 제품별 매출: 파이 차트로 제품별 매출 비중 시각화.<br>
 캠페인별 매출: 막대 그래프로 마케팅 캠페인 성과 분석.<br>
 
-![Fissler eCommerce KPI Dashboard1](assets/dashboard_screenshot1.png))
-![Fissler eCommerce KPI Dashboard2](assets/dashboard_screenshot2.png))
+![Fissler eCommerce KPI Dashboard1](assets/dashboard_screenshot1.png)
+![Fissler eCommerce KPI Dashboard2](assets/dashboard_screenshot2.png)
 
 파일 구조
 
