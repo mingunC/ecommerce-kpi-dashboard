@@ -24,12 +24,12 @@ KPI 시각화: 총 매출, 전환율, 평균 주문 가치 표시.<br>
 
 ### 결과물
 
-매출 추이: 시간별 매출을 선 그래프로 표시.
-제품별 매출: 파이 차트로 제품별 매출 비중 시각화.
-캠페인별 매출: 막대 그래프로 마케팅 캠페인 성과 분석.
+매출 추이: 시간별 매출을 선 그래프로 표시.<br>
+제품별 매출: 파이 차트로 제품별 매출 비중 시각화.<br>
+캠페인별 매출: 막대 그래프로 마케팅 캠페인 성과 분석.<br>
 
-![Fissler eCommerce KPI Dashboard1](https://github.com/mingun-choi/ecommerce-kpi-dashboard/raw/main/assets/dashboard_screenshot1.png)
-![Fissler eCommerce KPI Dashboard2](https://github.com/mingun-choi/ecommerce-kpi-dashboard/raw/main/assets/dashboard_screenshot2.png)
+![Fissler eCommerce KPI Dashboard1](![Fissler eCommerce KPI Dashboard](assets/dashboard_screenshot1.png))
+![Fissler eCommerce KPI Dashboard2](![Fissler eCommerce KPI Dashboard](assets/dashboard_screenshot2.png))
 
 파일 구조
 
